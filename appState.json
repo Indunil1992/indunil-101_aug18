@@ -1,0 +1,72 @@
+{
+  "EDITOR_STATE": {
+    "allProjectFiles": {
+      "b8ce301a-539a-40ae-a49e-0c31c02601fc": {
+        "id": "b8ce301a-539a-40ae-a49e-0c31c02601fc",
+        "parent": null,
+        "name": "indunil-101_Aug18.js",
+        "type": "JS_LAMBDA",
+        "isDirectory": false,
+        "children": [],
+        "isRemovable": true,
+        "filePath": "indunil-101_Aug18.js",
+        "cursor": {
+          "lineNumber": 2,
+          "column": 5
+        },
+        "config": {
+          "runtime": "nodejs10.x",
+          "handler": "handler",
+          "timeout": 60,
+          "memory": 128,
+          "layers": [],
+          "name": "indunil101Aug18"
+        },
+        "triggers": [],
+        "lastUpdated": 1597736025466
+      }
+    },
+    "openFiles": [
+      "b8ce301a-539a-40ae-a49e-0c31c02601fc"
+    ],
+    "currentFileId": "b8ce301a-539a-40ae-a49e-0c31c02601fc",
+    "resources": {},
+    "customTemplate": {
+      "syntax": "JSON",
+      "overrideDefault": false,
+      "dialect": null,
+      "definitions": null
+    },
+    "envVariables": [
+      {
+        "lambdaId": "all",
+        "varKey": "SIGMA_AWS_ACC_ID",
+        "varValue": null,
+        "shouldPersist": false,
+        "displayOnly": false,
+        "editable": false
+      }
+    ],
+    "packageJSON": {
+      "dependencies": {}
+    }
+  },
+  "PROJECT_META": {
+    "sigmaVersion": "1.4.2",
+    "projectName": "indunil-101_Aug18",
+    "projectDescription": "",
+    "projectVersion": "1.0.0",
+    "projectRegion": "eu-west-2",
+    "platform": "AWS",
+    "language": "nodejs",
+    "platformRegions": {},
+    "lastSave": 1597736031084
+  },
+  "VCS_STATE": {
+    "provider": "GitHub",
+    "repo": {
+      "name": "indunil-101_aug18",
+      "url": "https://github.com/Indunil1992/indunil-101_aug18"
+    }
+  }
+}
